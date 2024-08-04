@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "engies": {
-    "node": ">= 18"
+    "node": "== 18.17.0"
   },
   "scripts": {
     "test": "vitest",
